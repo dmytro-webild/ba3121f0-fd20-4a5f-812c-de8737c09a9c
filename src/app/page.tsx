@@ -67,7 +67,7 @@ export default function LandingPage() {
           handle: "@amazon-partner",
           testimonial: "Exceptional logistics precision and high-volume reliability.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/storage-room-supervisor-checking-customer-order_482257-76924.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/storage-room-supervisor-checking-customer-order_482257-76924.jpg?_wi=1",
           imageAlt: "logistics warehouse night tech",
         },
         {
@@ -75,7 +75,7 @@ export default function LandingPage() {
           handle: "@supply-chain",
           testimonial: "UTlogistics consistently exceeds throughput expectations.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/graph-going-up-red-arrow-bar-graph-with-arrow-business-concept_35913-3361.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/graph-going-up-red-arrow-bar-graph-with-arrow-business-concept_35913-3361.jpg?_wi=1",
           imageAlt: "logistics warehouse night tech",
         },
         {
@@ -83,7 +83,7 @@ export default function LandingPage() {
           handle: "@retail-ops",
           testimonial: "Transformative delivery speeds and operations management.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg?_wi=1",
           imageAlt: "logistics warehouse night tech",
         },
         {
@@ -91,7 +91,7 @@ export default function LandingPage() {
           handle: "@fulfillment",
           testimonial: "Reliable data-driven logistics you can trust.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-coworkers-examine-parcels_482257-75336.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-coworkers-examine-parcels_482257-75336.jpg?_wi=1",
           imageAlt: "logistics warehouse night tech",
         },
         {
@@ -99,7 +99,7 @@ export default function LandingPage() {
           handle: "@logistics-head",
           testimonial: "Unmatched scale and efficiency for every shipment.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/seaforth-radar-tower-irish-sea-coast-liverpool-united-kingdom_1268-19732.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/seaforth-radar-tower-irish-sea-coast-liverpool-united-kingdom_1268-19732.jpg?_wi=1",
           imageAlt: "logistics warehouse night tech",
         },
       ]}
@@ -113,7 +113,7 @@ export default function LandingPage() {
           href: "#metrics",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/storage-room-supervisor-checking-customer-order_482257-76924.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/storage-room-supervisor-checking-customer-order_482257-76924.jpg?_wi=2"
       imageAlt="logistics warehouse night tech"
       avatars={[
         {
@@ -185,21 +185,21 @@ export default function LandingPage() {
           value: "1.2M+",
           title: "Packages Delivered",
           description: "Reliable daily fulfillment across peak shipping periods.",
-          imageSrc: "http://img.b2bpic.net/free-photo/graph-going-up-red-arrow-bar-graph-with-arrow-business-concept_35913-3361.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/graph-going-up-red-arrow-bar-graph-with-arrow-business-concept_35913-3361.jpg?_wi=2",
         },
         {
           id: "m2",
           value: "99.8%",
           title: "Delivery Success",
           description: "High-accuracy rate maintaining our commitment to Amazon standards.",
-          imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg?_wi=2",
         },
         {
           id: "m3",
           value: "45%",
           title: "Quarterly Growth",
           description: "Expanding our fleet capacity consistently every quarter.",
-          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-coworkers-examine-parcels_482257-75336.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-coworkers-examine-parcels_482257-75336.jpg?_wi=2",
         },
       ]}
       title="By The Numbers"
@@ -324,7 +324,7 @@ export default function LandingPage() {
           content: "Reach out through our contact portal; our logistics evaluation team will review your requirements.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/seaforth-radar-tower-irish-sea-coast-liverpool-united-kingdom_1268-19732.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/seaforth-radar-tower-irish-sea-coast-liverpool-united-kingdom_1268-19732.jpg?_wi=2"
       title="Frequently Asked Questions"
       description="Learn more about our logistics models and partnership potential."
       faqsAnimation="slide-up"
