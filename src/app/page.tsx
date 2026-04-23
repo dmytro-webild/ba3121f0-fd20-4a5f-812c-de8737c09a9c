@@ -17,15 +17,15 @@ import { Award, Shield, Zap } from "lucide-react";
 export default function LandingPage() {
   return (
     <ThemeProvider
-        defaultButtonVariant="text-stagger"
+        defaultButtonVariant="hover-bubble"
         defaultTextAnimation="background-highlight"
         borderRadius="pill"
         contentWidth="smallMedium"
         sizing="mediumLarge"
         background="floatingGradient"
-        cardStyle="soft-shadow"
-        primaryButtonStyle="diagonal-gradient"
-        secondaryButtonStyle="layered"
+        cardStyle="glass-elevated"
+        primaryButtonStyle="shadow"
+        secondaryButtonStyle="solid"
         headingFontWeight="extrabold"
     >
       <ReactLenis root>
